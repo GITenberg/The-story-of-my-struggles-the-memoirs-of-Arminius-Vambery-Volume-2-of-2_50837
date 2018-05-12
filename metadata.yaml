@@ -1,10 +1,16 @@
 _repo: The-story-of-my-struggles-the-memoirs-of-Arminius-Vambery-Volume-2-of-2_50837
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50837-h/images/cover.jpg
 creator:
   author:
     agent_name: Vambéry, Arminius
     gutenberg_agent_id: '46095'
     url: http://www.gutenberg.org/2009/agents/46095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50837#The-story-of-my-struggles-the-memoirs-of-Arminius-Vambery-Volume-2-of-2
 gutenberg_issued: '2016-01-03'
 gutenberg_type: Text
 identifiers:
